@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Southern Sun</h1>
 <h3 align="center">A developer from Vietnam</h3>
 
-- 🔭 I’m currently working on **odoo 17**
+- 🔭 I’m currently working on **odoo 17, 18, 19**
 
 - 🌱 I’m currently learning **Scikilearn**
 
